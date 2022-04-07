@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hey, Glad you made it here! I'm Karthikeya Meesala, a full stack web developer with focus on frontend!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeya-meesala&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeya-meesala" /> </p>
 
